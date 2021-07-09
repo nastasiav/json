@@ -11,6 +11,6 @@
   "test2": {
     "OrderNumder": "1001",
     "ErrorCode": "00",
-    "ErrorMessage": "Ошибоска не вышла"
+    "ErrorMessage": "Ошибочка не вышла"
   }
 }
