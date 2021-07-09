@@ -1,3 +1,12 @@
 {
-  "test1":{"Error Code": "00","Error Message": "Ошибочка не вылезла"}
+  "test1":{"Error Code": "00","Error Message": "Ошибочка не вылезла"},
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
