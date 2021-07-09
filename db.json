@@ -1,6 +1,6 @@
 {
-  "test1":[
+  "test1":{
     "Error Code": "00",
     "Error Message": "Ошибочка вылезла"
-    ]
+  }
 }
