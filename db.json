@@ -9,6 +9,8 @@
     "name": "typicode"
   },
   "test2": {
-    "Error Code": "00"
+    "OrderNumder": "1001",
+    "ErrorCode": "00",
+    "ErrorMessage": "Ошибоска не вышла"
   }
 }
