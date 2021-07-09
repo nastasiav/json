@@ -10,7 +10,7 @@
   },
   "test2": {
     "OrderNumder": "1001",
-    "ErrorCode": "00",
-    "ErrorMessage": "Ошибочка не вышла"
+    "ErrorMessage": "Ошибочка не вышла",
+    "ErrorCode": "00"
   }
 }
