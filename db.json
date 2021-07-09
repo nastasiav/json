@@ -1,5 +1,4 @@
 {
-  "test1":{"Error Code": "00","Error Message": "Ошибочка не вылезла"},
   "posts": [
     {
       "id": 1,
@@ -8,8 +7,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "test2": {
-    "Error Code": "00"
   }
 }
