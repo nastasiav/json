@@ -12,5 +12,9 @@
     "OrderNumder": "1001",
     "ErrorMessage": "Ошибочка не вышла",
     "ErrorCode": "056"
+  },
+  "setBusinessTrip": {
+    "OrderNumder": "00041/2021-К",
+    "ErrorCode": "00"
   }
 }
